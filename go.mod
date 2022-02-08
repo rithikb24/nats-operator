@@ -14,7 +14,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	k8s.io/api v0.22.2
-	k8s.io/apiextensions-apiserver v0.0.0
+	k8s.io/apiextensions-apiserver v0.23.3
 	k8s.io/apimachinery v0.22.2
 	k8s.io/client-go v0.22.2
 	k8s.io/code-generator v0.22.2
